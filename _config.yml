@@ -21,9 +21,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Integration  Product 1팀  기술블로그                          # the main title
+title: Tech Blog                          # the main title
 
-tagline: 공유하자   # it will display as the sub-title
+tagline: Megazone Cloud <br> Product Development Center <br> Integration Product 1 Team   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Web, Kotlin, Javascript
