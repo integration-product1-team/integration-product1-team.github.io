@@ -55,7 +55,7 @@ social:
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-#google_analytics:
+google_analytics:
   id: G-3SS9Q8H0LE                # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
