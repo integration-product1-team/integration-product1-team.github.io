@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Integration Product 1팀 기술블로그                          # the main title
+title: Integration  Product 1팀  기술블로그                          # the main title
 
 tagline: 공유하자   # it will display as the sub-title
 
@@ -83,7 +83,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'assets/img/avatar.jpg'
+avatar: 'assets/img/agile-team.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
