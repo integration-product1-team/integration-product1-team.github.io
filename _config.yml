@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Integation Product 1팀 기술블로그                          # the main title
+title: Integration Product 1팀 기술블로그                          # the main title
 
 tagline: 공유하자   # it will display as the sub-title
 
@@ -100,9 +100,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo:             # <gh-username>/<repo>
-    repo_id: 
-    category: 
-    category_id: 
+    repo_id:
+    category:
+    category_id:
     mapping:          # optional, default to 'pathname'
     input_position:   # optional, default to 'bottom'
     lang:           # optional, default to the value of `site.lang`
