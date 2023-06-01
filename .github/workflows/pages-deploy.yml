@@ -7,6 +7,8 @@ on:
       - .gitignore
       - README.md
       - LICENSE
+permissions:
+  contents: write  
 
 jobs:
   continuous-delivery:
